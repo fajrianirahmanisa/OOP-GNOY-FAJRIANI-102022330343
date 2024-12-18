@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.VBox?>
 
-<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1" fx:controller="LoginController">
+<BorderPane prefHeight="182.0" prefWidth="421.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginController">
     <center>
         <VBox alignment="CENTER" prefHeight="149.0" prefWidth="381.0" spacing="15">
             <Label style="-fx-font-size: 18px; -fx-font-weight: bold;" text="Login" />
